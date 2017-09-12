@@ -9,7 +9,6 @@ int A[maxn] , n ;
 
 
 int main(){
-	freopen("prog.txt","r",stdin) ;	
 
 	scanf("%d",&n) ;
 	
